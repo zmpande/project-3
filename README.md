@@ -1,6 +1,6 @@
 # project-3
 Browsing history
-1. The script will allow the user to choose any option the user want, the options are:
+1. The script allow the user to choose any option the user want, the options are:
    1. Visit the website
    2. View all the URLs visited
 3. if the use enter nothing, letter and special characters the script will dispaly error message(Invalid option, please try again)
